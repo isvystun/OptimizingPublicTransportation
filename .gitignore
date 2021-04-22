@@ -1,0 +1,4 @@
+consumers/venv/
+producers/venv/
+producers/venv/__pycache__/
+
